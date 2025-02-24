@@ -1,0 +1,2 @@
+# Employee Management System
+ C++ program to manage employee records in a company. The system should allow for adding, updating, deleting, and retrieving employee information. The program should utilize the concepts covered in the lectures, including references, pointers, structures, classes, constructors, access modifiers, encapsulation, inheritance, polymorphism, exception handling, threading, and file handling.
